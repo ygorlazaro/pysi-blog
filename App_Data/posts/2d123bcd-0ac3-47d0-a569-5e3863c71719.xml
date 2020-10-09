@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Ygor Lazaro</author>
+  <title>Programação – ASP.NET Nº 1</title>
+  <description />
+  <content>&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;font face="Calibri" size="3"&gt;Come&amp;ccedil;amos a partir de hoje a coluna semanal prometida na semana passada sobre programa&amp;ccedil;&amp;atilde;o. Hoje eu vou come&amp;ccedil;ar o mini-curso de ASP.NET. O nosso objetivo n&amp;atilde;o &amp;eacute; ter um curso completo aqui e sim dar-lhes uma introdu&amp;ccedil;&amp;atilde;o ao ambiente e &amp;agrave; linguagem de programa&amp;ccedil;&amp;atilde;o. Vejamos primeiro qual a estrutura do ASP.NET:&lt;/font&gt; 
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal" align="center"&gt;
+&lt;img style="width: 159px; height: 192px" src="/blog/image.axd?picture=NETframework.png" alt="" width="201" height="198" /&gt; 
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;span&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;font face="Calibri" size="3"&gt;Como vemos na imagem acima, o ASP.NET n&amp;atilde;o &amp;eacute; uma linguagem, ela &amp;eacute; uma plataforma. Ou seja, voc&amp;ecirc; pode utilizar as linguagens da plataforma .NET ou linguagens de terceiros compat&amp;iacute;veis (C#, VB, Python, Ruby, Cobol, etc...) para escrever programas ASP.NET. Aqui n&amp;oacute;s vamos nos concentrar em desenvolver com o C#. Para isso, vamos visitar o site &lt;/font&gt;&lt;font face="Calibri" size="3" color="#0000ff"&gt;&lt;a href="http://www.microsoft.com/express/vwd" target="_blank"&gt;http://www.microsoft.com/express/vwd&lt;/a&gt;&lt;/font&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt; para baixar a ferramenta de desenvolvimento WebDeveloper (&amp;eacute; gr&amp;aacute;tis). Nessa p&amp;aacute;gina, clique no bot&amp;atilde;o Download, instale o execut&amp;aacute;vel seguindo as instru&amp;ccedil;&amp;otilde;es da tela.&amp;nbsp;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/font&gt;&lt;/font&gt;
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span&gt;Este artigo &amp;eacute; um pouco extenso. Para continuar lendo, clique em [more].&lt;/span&gt;&lt;/font&gt;&lt;/font&gt; 
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;font face="Calibri" size="3"&gt;Quando terminar a instala&amp;ccedil;&amp;atilde;o, abra o Web Developer Express no menu iniciar. Pode se acostumar com o layout se voc&amp;ecirc; quiser realmente trabalhar com a plataforma .NET, pois todo o ambiente de programa&amp;ccedil;&amp;atilde;o da Microsoft &amp;eacute; igual, mudando somente a linguagem e as particularidades dela. Vamos criar um novo projeto, clicando no menu File / New WebSite. Inicie um projeto de C#, na coluna da esquerda, do tipo ASP.NET Web Application, na janela a direita.&lt;/font&gt; 
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal" align="center"&gt;
+&lt;img src="/blog/image.axd?picture=Sem+t%c3%adtulo.jpg" alt="" /&gt; 
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;font face="Calibri" size="3"&gt;Depois de clicar no OK, o ambiente &amp;eacute; preparado e aberto em um formul&amp;aacute;rio em branco. P&amp;aacute;ginas em ASP.NET s&amp;atilde;o chamados de WebForms, e na pr&amp;aacute;tica s&amp;atilde;o dois arquivos, no nosso exemplo, Default.aspx e Default.aspx.cs. Arquivos com final aspx s&amp;atilde;o as estruturas visuais da p&amp;aacute;gina, enquanto arquivos com final aspx.cs s&amp;atilde;o os c&amp;oacute;digos de programa&amp;ccedil;&amp;atilde;o para o funcionamento da mesma, aqui em C#.&lt;/font&gt; 
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;font face="Calibri" size="3"&gt;Clique embaixo no bot&amp;atilde;o Design e abra a ToolBox &amp;agrave; esquerda. A ToolBox cont&amp;eacute;m todos os objetos que voc&amp;ecirc; pode aplicar em seu projeto, bastando arrast&amp;aacute;-las para o formul&amp;aacute;rio. Nesse exemplo, vamos arrastar um objeto TextBox e um objeto Button. Vamos fazer com que um texto seja exibido no TextBox quando se clique no bot&amp;atilde;o (o famoso &amp;ldquo;ol&amp;aacute; mundo&amp;rdquo;). Para isso, clique duas vezes sobre o bot&amp;atilde;o, o c&amp;oacute;digo C# ir&amp;aacute; abrir.&lt;/font&gt;&amp;nbsp;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt; 
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;img src="/blog/image.axd?picture=Sem+t%c3%adtulo2.jpg" alt="" /&gt;
+&lt;/p&gt;
+&lt;p style="text-align: justify; margin: 0cm 0cm 10pt" class="MsoNormal"&gt;
+&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Insira o seguinte c&amp;oacute;digo entre as chaves: &lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;TextBox1.Text = &lt;span style="color: #a31515"&gt;&amp;quot;Ol&amp;aacute;, mundo&amp;quot;&lt;/span&gt;;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span style="color: blue"&gt;protected&lt;/span&gt;&lt;span&gt; &lt;span style="color: blue"&gt;void&lt;/span&gt; Button1_Click(&lt;span style="color: blue"&gt;object&lt;/span&gt; sender, &lt;span style="color: #2b91af"&gt;EventArgs&lt;/span&gt; e)&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;
+&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;{&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br /&gt;
+&lt;/span&gt;TextBox1.Text = &lt;span style="color: #a31515"&gt;&amp;quot;Ol&amp;aacute;, mundo&amp;quot;&lt;/span&gt;;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br /&gt;
+&lt;/span&gt;}&lt;br /&gt;
+&lt;br /&gt;
+&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Esse c&amp;oacute;digo informa que pegamos o texto &amp;ldquo;Ol&amp;aacute;, mundo&amp;rdquo;, e colocamos na propridade texto (Text) do objeto TextBox1. Simples assim, e o sisteminha est&amp;aacute; pronto. Para testar sua funcionalidade, aperte F5. Abrir&amp;aacute; uma janela pedindo permiss&amp;atilde;o para acionar o modo Debug (verifica&amp;ccedil;&amp;atilde;o de erros no c&amp;oacute;digo, que ser&amp;aacute; descrito em novo post). No momento, somente aceite, clique em OK. &lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;font size="3"&gt;&lt;span&gt;&lt;font face="Calibri"&gt;Abrir&amp;aacute; seu navegador padr&amp;atilde;o (no momento o meu &amp;eacute; Safari,&lt;a href="/blog/post/Lancado-o-Safari-4.aspx"&gt; j&amp;aacute; comentei em outro post&lt;/a&gt;). Clique no seu bot&amp;atilde;o novo e &lt;em&gt;Voil&amp;aacute;&lt;/em&gt;: primeiro site em ASP.NET! &lt;/font&gt;&lt;/span&gt;&lt;span style="font-family: Wingdings"&gt;&lt;span&gt;J&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;font size="3"&gt;&lt;span style="font-family: Wingdings"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;font size="3"&gt;&lt;font face="Calibri"&gt;Na semana que vem mostrarei os principais objetos do ASP.NET e propriedades importantes do mesmo.&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;span&gt;&lt;font face="Calibri" size="3"&gt;Este artigo serve mais como introdu&amp;ccedil;&amp;atilde;o &amp;agrave; id&amp;eacute;ia, mas sei que existem pessoas que se animar&amp;atilde;o com o que viram e vir&amp;atilde;o aqui. Para eles, deixo os seguintes links:&lt;/font&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+	&lt;div&gt;
+	&lt;span&gt;&lt;font face="Calibri" size="3"&gt;&lt;a href="http://www.asp.net/"&gt;www.asp.net&lt;/a&gt; - Site com tudo sobre programa&amp;ccedil;&amp;atilde;o em ASP.NET, desde introdu&amp;ccedil;&amp;otilde;es at&amp;eacute; projetos completos.&lt;/font&gt;&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div&gt;
+	&lt;span&gt;&lt;font face="Calibri" size="3"&gt;&lt;a href="http://www.microsoft.com/express"&gt;www.microsoft.com/express&lt;/a&gt; - Outras linguagens, para programa&amp;ccedil;&amp;atilde;o pro Windows: Visual Basic, Visual C# e Visual C++, todas gr&amp;aacute;tis.&lt;/font&gt;&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div&gt;
+	&lt;span&gt;&lt;font face="Calibri" size="3"&gt;&lt;a href="http://www.macoratti.net/"&gt;www.macoratti.net&lt;/a&gt; - Grande lista de informa&amp;ccedil;&amp;otilde;es e tutoriais sobre VB, VB.NET e C#.&lt;/font&gt;&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;span&gt;&lt;font face="Calibri" size="3"&gt;&amp;nbsp;Tamb&amp;eacute;m me coloco a disposi&amp;ccedil;&amp;atilde;o para resolver qualquer d&amp;uacute;vida de voc&amp;ecirc;s:&lt;/font&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+	&lt;div&gt;
+	&lt;span&gt;&lt;font face="Calibri" size="3"&gt;&lt;a href="http://www.twitter.com/"&gt;www.twitter.com&lt;/a&gt;&lt;/font&gt;&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div&gt;
+	&lt;span&gt;&lt;font face="Calibri" size="3"&gt;E-mail: &lt;a href="mailto:ygor@pysi.com.br"&gt;ygor@pysi.com.br&lt;/a&gt;&lt;/font&gt;&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2009-06-10 23:21:00</pubDate>
+  <lastModified>2009-06-10 23:45:19</lastModified>
+  <raters>2</raters>
+  <rating>2.5</rating>
+  <slug>Programacao-e28093-ASPNET-Nc2ba-1</slug>
+  <tags>
+    <tag>asp.net</tag>
+    <tag>web developer</tag>
+    <tag>express</tag>
+    <tag>curso</tag>
+    <tag>programação</tag>
+  </tags>
+  <comments>
+    <comment id="d2fa25a3-e659-4883-b2a9-5e2122a1fd4b" approved="True">
+      <date>2009-11-03 05:37:35</date>
+      <author>drug store</author>
+      <email>24mednet@gmail.com</email>
+      <country>gb</country>
+      <ip>93.85.170.105</ip>
+      <website>http://www.24med.net/</website>
+      <content>Thanks fororiginal ideas ad tips provided.</content>
+    </comment>
+    <comment id="73adac49-618e-4d92-98e2-d1dd2caa91d6" approved="True">
+      <date>2010-01-05 13:51:45</date>
+      <author>personal loans</author>
+      <email>nankenba@comcast.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.globalpaydayloans.com/</website>
+      <content>There are certainly a lot of details like that to take into consideration. </content>
+    </comment>
+    <comment id="333b5c08-f320-4af5-bb78-75bb1aa0a300" approved="True">
+      <date>2010-01-05 14:12:20</date>
+      <author>easy loans</author>
+      <email>nanniemichele@prodigy.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.globalpaydayloans.com/</website>
+      <content>This is my first time i visit here. I found so many interesting stuff in your blog especially its discussion. From the tons of comments on your articles, I guess I am not the only one having all the enjoyment here! keep up the good work.</content>
+    </comment>
+    <comment id="3caf8252-75cd-43a4-b4b6-e83e7fbd2d4c" approved="True">
+      <date>2010-02-22 19:34:05</date>
+      <author>Colon cleansing</author>
+      <email>nandgtucker@emeraldis.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.super-colon-cleanses.com/</website>
+      <content>Pretty good post. I just stumbled upon your blog and wanted to say that I have really enjoyed reading your blog posts. Any way I'll be subscribing to your feed and I hope you post again soon.</content>
+    </comment>
+    <comment id="93023f5e-5b87-484d-8017-346d09b0e3f0" approved="True">
+      <date>2010-02-24 09:57:29</date>
+      <author>Acne treatment</author>
+      <email>kap@rpmsolutions.net</email>
+      <country />
+      <ip>79.116.139.239</ip>
+      <website>http://www.super-acne-treatment.com/</website>
+      <content>Interesting article. Were did you got all the information from? Anyway thank you for this great post!</content>
+    </comment>
+    <comment id="afa12052-4291-402c-8050-f38c4b54cc41" approved="True">
+      <date>2010-02-25 11:51:27</date>
+      <author>pay day loans</author>
+      <email>kanielame@aol.com</email>
+      <country />
+      <ip>79.116.143.109</ip>
+      <website>http://www.sonicloans.net/</website>
+      <content>Wow! Thank you! I always wanted to write in my site something like that.</content>
+    </comment>
+    <comment id="9f4e16b3-bdf0-4e8d-9206-c2725ca6a36c" approved="True">
+      <date>2010-02-25 13:35:19</date>
+      <author>pay day loans</author>
+      <email>kane88033@yahoo.com</email>
+      <country />
+      <ip>79.116.143.109</ip>
+      <website>http://www.sonicloans.net/</website>
+      <content>I was looking for this the other day. i dont usually post in forums but i wanted to say thank you!</content>
+    </comment>
+    <comment id="bc111545-0a22-4f92-90b2-78b65387df66" approved="True">
+      <date>2010-02-27 02:52:41</date>
+      <author>cash advance</author>
+      <email>kappicino2002@yahoo.com</email>
+      <country />
+      <ip>79.116.142.33</ip>
+      <website>http://www.flyingloans.com/</website>
+      <content>Hey - nice blog, just looking around some blogs, seems a pretty nice platform you are using. I'm currently using Wordpress for a few of my sites but looking to change one of them over to a platform similar to yours as a trial run. Anything in particular you would recommend about it?</content>
+    </comment>
+    <comment id="1089ed00-d64c-4a20-8a54-da3801f004eb" approved="True">
+      <date>2010-02-27 10:52:34</date>
+      <author>personal loans</author>
+      <email>kanesnuff4@hotmail.com</email>
+      <country />
+      <ip>79.116.142.118</ip>
+      <website>http://www.flyingloans.com/</website>
+      <content>Pretty good post. I just stumbled upon your blog and wanted to say that I have really enjoyed reading your blog posts. Any way I'll be subscribing to your feed and I hope you post again soon.</content>
+    </comment>
+    <comment id="40c7d552-f895-4c55-a0bc-4072f2fe4284" approved="True">
+      <date>2010-03-13 17:08:58</date>
+      <author>Stretch marks</author>
+      <email>nanobody@yahoo.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.stretch-marks-treatments.com/</website>
+      <content>That is some inspirational stuff. Never knew that opinions could be this varied. Thanks for all the enthusiasm to offer such helpful information here.</content>
+    </comment>
+    <comment id="2a422de5-d386-464d-8e23-82acf9de64ba" approved="True">
+      <date>2010-03-18 17:21:14</date>
+      <author>cure for genital warts</author>
+      <email>karen.h.brown@questdiagnostics.com</email>
+      <country />
+      <ip>172.190.249.36</ip>
+      <website>http://www.super-warts-treatment.com/</website>
+      <content>I thought it was going to be some boring old post, but it really compensated for my time. I will post a link to this page on my blog. I am sure my visitors will find that very useful. Big thanks for the useful info i found on Programa&amp;#231;&amp;#227;o – ASP.NET N&amp;#186; 1. </content>
+    </comment>
+    <comment id="c97b73ae-6a04-4b78-832a-c9d366e3759b" approved="True">
+      <date>2010-03-19 11:21:51</date>
+      <author>how to get rid of genital warts</author>
+      <email>kankerholz@lyonsmfg.com</email>
+      <country />
+      <ip>172.190.53.26</ip>
+      <website>http://www.super-warts-treatment.com/</website>
+      <content>Aw, this was a really quality post. In theory I'd like to write like this too - taking time and real effort to make a good article... but what can I say... I procrastinate alot and never seem to get something done. Big thanks for the useful info i found on Programa&amp;#231;&amp;#227;o – ASP.NET N&amp;#186; 1. </content>
+    </comment>
+    <comment id="5252ca79-eabe-401e-b0a9-875da51f821c" approved="True">
+      <date>2010-03-20 13:56:31</date>
+      <author>refinance car loan</author>
+      <email>nankin@cox.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-car-loan.com/</website>
+      <content>There is obviously a lot to know about this.  I think you made some good points in Features also.</content>
+    </comment>
+    <comment id="2e2e8925-7e98-4b75-9f18-54915b0712b1" approved="True">
+      <date>2010-03-21 12:41:35</date>
+      <author>credit card debt reduction</author>
+      <email>nanners313@starband.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-debt-settlement.com/</website>
+      <content>Finally, got what I was looking for!! I definitely enjoying every little bit of it. Glad I stumbled into this article! smile I have you bookmarked to check out new stuff you post</content>
+    </comment>
+    <comment id="1902e44e-59d4-4ddf-a6d0-8f1289bf34a4" approved="True">
+      <date>2010-03-26 17:24:34</date>
+      <author>treatment for toenail fungus</author>
+      <email>kandybabe17@yahoo.com</email>
+      <country />
+      <ip>172.130.141.60</ip>
+      <website>http://www.nail-fungus-treatments.com/</website>
+      <content>Hello. Great job. I did not expect this on a Wednesday. This is a good story.  Big thanks for the useful info i found on Programa&amp;#231;&amp;#227;o – ASP.NET N&amp;#186; 1. </content>
+    </comment>
+    <comment id="079b6c88-d71b-496f-949a-630df4e506ad" approved="True">
+      <date>2010-03-27 08:14:32</date>
+      <author>toenail fungus cure</author>
+      <email>kano22@comcast.net</email>
+      <country />
+      <ip>172.129.54.141</ip>
+      <website>http://www.nail-fungus-treatments.com/</website>
+      <content>I would like to thank you for the efforts you have made in writing this article. I am hoping the same best work from you in the future as well.  Big thanks for the useful info i found on Programa&amp;#231;&amp;#227;o – ASP.NET N&amp;#186; 1. </content>
+    </comment>
+    <comment id="721c7458-49d4-4d0c-bec9-fb8c11e8b285" approved="True">
+      <date>2010-04-06 08:34:29</date>
+      <author>cellulite cream reviews</author>
+      <email>kano325@bellsouth.net</email>
+      <country>us</country>
+      <ip>172.130.27.197</ip>
+      <website>http://www.super-cellulite-treatment.com/</website>
+      <content>You made some good points there. I did a search on the topic and found most people will agree with your blog. Big thanks for the useful info i found on Programa&amp;#231;&amp;#227;o – ASP.NET N&amp;#186; 1. </content>
+    </comment>
+    <comment id="2a9b04c2-a1c8-4050-9cd1-9f41795e078a" approved="True">
+      <date>2010-04-06 11:41:15</date>
+      <author>cellulite treatment</author>
+      <email>kapparot@aol.com</email>
+      <country>us</country>
+      <ip>172.129.195.158</ip>
+      <website>http://www.super-cellulite-treatment.com/</website>
+      <content>Hey, i've been reading this blog for a while and have a question, maybe you can help... it's how do i add your feed to my rss reader as i want to follow you.  Big thanks for the useful info i found on Programa&amp;#231;&amp;#227;o – ASP.NET N&amp;#186; 1. </content>
+    </comment>
+    <comment id="71c89044-0434-4000-9f54-455e914c36cd" approved="True">
+      <date>2010-04-11 19:09:22</date>
+      <author>fast money loans</author>
+      <email>kapela@ameritech.net</email>
+      <country>us</country>
+      <ip>79.116.143.101</ip>
+      <website>http://ezinearticles.com/?Easy-Cash-Loans&amp;id=2201550</website>
+      <content>This is such a great resource that you are providing and you give it away for free. I love seeing websites that understand the value of providing a quality resource for free. It?s the old what goes around comes around routine. </content>
+    </comment>
+    <comment id="937906e4-aa8c-46e7-a2dd-ad47688f843d" approved="True">
+      <date>2010-04-13 00:03:02</date>
+      <author>low cost payday loans</author>
+      <email>kapsplacee@yahoo.com</email>
+      <country>us</country>
+      <ip>79.116.143.101</ip>
+      <website>http://ezinearticles.com/?Same-Day-Payday-Loans---99%25-Approval-the-Easy-Way&amp;id=2037690</website>
+      <content>I am not really sure if best practices have emerged around things like that, but I am sure that your great job is clearly identified. I was wondering if you offer any subscription to your RSS feeds as I would be very interested and can?t find any link to subscribe here.</content>
+    </comment>
+    <comment id="17b682ca-584b-4e42-801f-cbbccaf5d7db" approved="True">
+      <date>2010-05-03 02:28:07</date>
+      <author>no fax cash loans</author>
+      <email>kara_eckerson@hotmail.com</email>
+      <country>us</country>
+      <ip>79.116.143.184</ip>
+      <website>http://www.sonicloans.net/no-fax-cash-loans.html</website>
+      <content>Hello. Great job. I did not expect this on a Wednesday. This is a great story. Thanks!</content>
+    </comment>
+    <comment id="14343bdb-9ca4-406f-ae47-8882c1581ab1" approved="True">
+      <date>2010-05-03 14:34:45</date>
+      <author>free payday loans</author>
+      <email>kansascoy1@yahoo.com</email>
+      <country>us</country>
+      <ip>79.116.143.184</ip>
+      <website>http://www.sonicloans.net/free-payday-loans.html</website>
+      <content>I don't like your template but your posts are quite good so I will check back! </content>
+    </comment>
+    <comment id="76180913-ea9c-4e8b-87ff-7cf409216a6a" approved="True">
+      <date>2010-05-12 08:46:56</date>
+      <author>instant cash advance online</author>
+      <email>kanenable187@hotmail.com</email>
+      <country>us</country>
+      <ip>172.190.215.152</ip>
+      <website>http://www.globalpaydayloans.com/instant-cash-advance-online.htm</website>
+      <content>Hey, i've been reading this blog for a while and have a question, maybe you can help... it's how do i add your feed to my rss reader as i want to follow you. Thanks.</content>
+    </comment>
+    <comment id="594ad67a-02f5-4ae9-b5c3-792cef8d6321" approved="True">
+      <date>2010-05-12 16:05:15</date>
+      <author>same day payday loan</author>
+      <email>karacsony813@aol.com</email>
+      <country>us</country>
+      <ip>79.116.142.159</ip>
+      <website>http://www.globalpaydayloans.com/same-day-payday-loan.htm</website>
+      <content>Found your site on del.icio.us today and really liked it.. i bookmarked it and will be back to check it out some more later ..</content>
+    </comment>
+    <comment id="0a120dfa-9152-4cf3-9c27-692d32b5bcde" approved="True">
+      <date>2010-05-19 00:05:18</date>
+      <author>personal student loans</author>
+      <email>kaosatfsu@yahoo.com</email>
+      <country>us</country>
+      <ip>79.116.143.244</ip>
+      <website>http://www.flyingloans.com/personal-student-loans.htm</website>
+      <content>There is obviously a lot to know about this.  I think you made some good points in Features also.</content>
+    </comment>
+    <comment id="1ad6184d-f3ce-4e83-baca-90b7f417d635" approved="True">
+      <date>2010-05-24 20:37:24</date>
+      <author>online loan quote</author>
+      <email>kapten@aol.com</email>
+      <country>us</country>
+      <ip>79.116.143.202</ip>
+      <website>http://www.flyingloans.com/online-loan-quote.htm</website>
+      <content>Hey I love your style I will subscribe for your feed please keep posting! </content>
+    </comment>
+  </comments>
+  <categories>
+    <category>60930500-05f3-4a98-a443-ca394d78d27c</category>
+  </categories>
+  <notifications />
+</post>

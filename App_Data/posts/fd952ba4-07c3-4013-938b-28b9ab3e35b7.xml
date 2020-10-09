@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Juan St. Clair</author>
+  <title>Da pra confiar nos arquivos PDFs?</title>
+  <description />
+  <content>&lt;p&gt;
+Hoje em dia a internet est&amp;aacute; cheia de pseudo hackers que metem o bom e velho &lt;a href="http://g1.globo.com/Noticias/Tecnologia/0,,MUL1233453-6174,00.html"&gt;e-mail bomba&lt;/a&gt;, ningu&amp;eacute;m mais abre e-mails do tipo &amp;quot;Veja as fotos que tiramos no motel, abra o foto1.exe&amp;quot;, sim, estamos falando das pragas virtuais que se espalham cada vez mais na internet. &lt;br /&gt;
+Ta.. Mas o que isso tem a ver com o t&amp;iacute;tulo?&lt;br /&gt;
+Esses dias eu recebi um e-mail do banco do Brasil, pedindo pra que eu enviasse um comprovante, s&amp;oacute; que eles s&amp;oacute; aceitariam arquivos no formato PDF. Bem, se eles l&amp;ecirc;ssem esse post, saberiam que n&amp;atilde;o est&amp;atilde;o t&amp;atilde;o seguros assim. &lt;br /&gt;
+Esse tipo de arquivos n&amp;atilde;o est&amp;aacute; propr&amp;iacute;cio a receber apenas textos e imagens, um PDF pode incluir tamb&amp;eacute;m objetos personalizados, que podem armazenar algum c&amp;oacute;digo executavel malicioso. Esses objetos s&amp;atilde;o ignorados pelo Adobe Reader e ferramentas PDF alternativas. A fun&amp;ccedil;&amp;atilde;o &amp;quot;Launch&amp;quot; presente nesse tipo de arquivo, pode rodar um programa e abrir ou imprimir um documento. A fun&amp;ccedil;&amp;atilde;o URI pode ser usada pra acessar remotamente um site, &amp;quot;Submit Form&amp;quot; pode redirecionar os dados de um formul&amp;aacute;rio para uma URL remota e um PDF pode at&amp;eacute; incluir arquivos JavaScript (ta.. ta... nesse caso, s&amp;oacute; comandos suportados pelos modelos de objetos da pr&amp;oacute;pria adobe).&lt;br /&gt;
+Vamos deixar o medo um pouco de lado e falar de solu&amp;ccedil;&amp;atilde;, sim, isso tudo tem uma solu&amp;ccedil;&amp;atilde;o, e como j&amp;aacute; era de se esperar: UPDATE. Mantenha SEMPRE seu Adobe Reader atualizado na &amp;uacute;ltima vers&amp;atilde;o pra evitar esse tipo de problema, quando um usu&amp;aacute;rio abre um PDF, ele alerta sobre qualquer tentativa de redirecionamento, te dando a op&amp;ccedil;&amp;atilde;o de acessar o conte&amp;uacute;do ou n&amp;atilde;o.&lt;br /&gt;
+Mas, como tudo que &amp;eacute; bom dura pouco, essas configura&amp;ccedil;&amp;otilde;e de seguran&amp;ccedil;a, por&amp;eacute;m, n&amp;atilde;o s&amp;atilde;o muito bem protegidas. Esses alertas s&amp;atilde;o gerenciados por um par de DLLs que podem ser substitu&amp;iacute;daspor c&amp;oacute;pias craqueadas, o que tornaria-a in&amp;uacute;teis, permitindo que um malware altera livremente as suas configura&amp;ccedil;&amp;otilde;es de seguran&amp;ccedil;a com um programa de ajuste no registro do Windows, e &amp;eacute; claro, voc&amp;ecirc; como usu&amp;aacute;rio cego, &lt;u&gt;n&amp;atilde;o perceber&amp;aacute; isso&lt;/u&gt;. &lt;br /&gt;
+Fique atento, n&amp;atilde;o fa&amp;ccedil;a como o Banco do Brasil, e nem escreva &amp;quot;Gerente de Leiaut&amp;quot; 
+&lt;/p&gt;
+</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2009-07-22 22:39:00</pubDate>
+  <lastModified>2009-07-22 23:06:10</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>Da-pra-confiar-nos-arquivos-PDFs</slug>
+  <tags />
+  <comments>
+    <comment id="b82fa578-ce2e-476b-9bc5-00e6670784a5" approved="True">
+      <date>2010-01-05 13:51:28</date>
+      <author>easy payday loans</author>
+      <email>nani917@blackplanet.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.globalpaydayloans.com/</website>
+      <content>I wasn't aware of the many ripples and depth to this story until I surfed here through Google! Great job.</content>
+    </comment>
+    <comment id="3411a089-2b4d-42c7-81b6-b4f239f05780" approved="True">
+      <date>2010-01-05 14:11:48</date>
+      <author>quick loans</author>
+      <email>nanna501@yahoo.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.globalpaydayloans.com/</website>
+      <content>Couldnt be written any better. Reading this post reminds me of my old room mate! He always kept talking about this. I will forward this article to him. Pretty sure he will have a good read. Thanks for sharing!</content>
+    </comment>
+    <comment id="41cdf3b9-5556-472b-9710-8aa79fd0d6ef" approved="True">
+      <date>2010-02-17 13:53:00</date>
+      <author>teeth whitening</author>
+      <email>kaneverdule@yahoo.com</email>
+      <country />
+      <ip>79.116.142.30</ip>
+      <website>http://www.super-teeth-whitening.net/</website>
+      <content>Hey, i've been reading this blog for a while and have a question, maybe you can help... it's how do i add your feed to my rss reader as i want to follow you. Thanks.</content>
+    </comment>
+    <comment id="a60ea753-f6c6-4de4-ba71-6c8956e8dc5b" approved="True">
+      <date>2010-02-22 19:33:24</date>
+      <author>Herbal colon cleanse</author>
+      <email>nani0831@netscape.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.super-colon-cleanses.com/</website>
+      <content>I just hope to have understood this the way it was meant</content>
+    </comment>
+    <comment id="772977a9-e967-4ad5-a22c-123969df2fe8" approved="True">
+      <date>2010-02-24 09:57:13</date>
+      <author>Acne treatment</author>
+      <email>kapoorkn@infi.net</email>
+      <country />
+      <ip>79.116.139.239</ip>
+      <website>http://www.super-acne-treatment.com/</website>
+      <content>I love what you guys are always up too. Such clever work and reporting! Keep up the great works guys I've added you guys to my blogroll. </content>
+    </comment>
+    <comment id="37787ca0-e0aa-4cb5-a864-4c0080d1878c" approved="True">
+      <date>2010-02-25 11:50:47</date>
+      <author>payday loans</author>
+      <email>kane_2002d@yahoo.com</email>
+      <country />
+      <ip>79.116.143.109</ip>
+      <website>http://www.sonicloans.net/</website>
+      <content>Hey very nice blog!! Man .. Beautiful .. Amazing .. I will bookmark your blog and take the feeds also...</content>
+    </comment>
+    <comment id="e7c454df-465d-49bd-8d32-162f0836cf14" approved="True">
+      <date>2010-02-25 13:34:29</date>
+      <author>paydayloans</author>
+      <email>kano2k2@cox.net</email>
+      <country />
+      <ip>79.116.143.109</ip>
+      <website>http://www.sonicloans.net/</website>
+      <content>Couldnt be written any better. Reading this post reminds me of my old room mate! He always kept talking about this. I will forward this article to him. Pretty sure he will have a good read. Thanks for sharing!</content>
+    </comment>
+    <comment id="bb8041fa-5aea-4c1a-bad0-ee4d97f27db8" approved="True">
+      <date>2010-03-13 17:08:09</date>
+      <author>Stretch mark removal</author>
+      <email>nanpa1@calis.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.stretch-marks-treatments.com/</website>
+      <content>my God, i thought you were going to chip in with some decisive insght at the end there, not leave it with ‘we leave it to you to decide’.</content>
+    </comment>
+    <comment id="0252ed9e-70a0-4028-ac92-14f5331aebf5" approved="True">
+      <date>2010-03-18 17:20:11</date>
+      <author>hpv genital warts</author>
+      <email>kaommi@rochester.rr.com</email>
+      <country />
+      <ip>172.190.249.36</ip>
+      <website>http://www.super-warts-treatment.com/</website>
+      <content>my God, i thought you were going to chip in with some decisive insght at the end there, not leave it with ‘we leave it to you to decide’. Big thanks for the useful info i found on Da pra confiar nos arquivos PDFs?. </content>
+    </comment>
+    <comment id="304f7d38-b500-41f2-b824-e179b84b9254" approved="True">
+      <date>2010-03-19 11:20:22</date>
+      <author>genital warts cure</author>
+      <email>kapitao_kaverna@hotmail.com</email>
+      <country />
+      <ip>172.190.53.26</ip>
+      <website>http://www.super-warts-treatment.com/</website>
+      <content>I am not really sure if best practices have emerged around things like that, but I am sure that your great job is clearly identified. I was wondering if you offer any subscription to your RSS feeds as I would be very interested and can?t find any link to subscribe here. Big thanks for the useful info i found on Da pra confiar nos arquivos PDFs?. </content>
+    </comment>
+    <comment id="1859b57c-ad28-46aa-82f3-dd0cf6f1c3eb" approved="True">
+      <date>2010-03-20 13:55:26</date>
+      <author>bad credit car loan</author>
+      <email>nannythegoose@yahoo.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-car-loan.com/</website>
+      <content>Excellent read, I just passed this onto a colleague who was doing a little research on that. And he actually bought me lunch because I found it for him smile So let me rephrase that: Thanks for lunch!</content>
+    </comment>
+    <comment id="3cf5474d-ab6e-4459-baf0-9b1eb24dfc2b" approved="True">
+      <date>2010-03-21 12:40:06</date>
+      <author>bad credit auto financing</author>
+      <email>nanooks14@aol.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-car-loan.com/</website>
+      <content>Hi Webmaster, commenters and everybody else !!! The blog was absolutely fantastic! Lots of great information and inspiration, both of which we all need!Keep 'em coming... you all do such a great job at such Concepts... can't tell you how much I, for one appreciate all you do!</content>
+    </comment>
+    <comment id="917da41d-fd7b-4ce2-9ab1-88d12656aa6c" approved="True">
+      <date>2010-03-26 17:24:08</date>
+      <author>toenail fungus cures</author>
+      <email>kappalphapsi152003@yahoo.com</email>
+      <country />
+      <ip>172.130.141.60</ip>
+      <website>http://www.nail-fungus-treatments.com/</website>
+      <content>Hello, I found your blog in a new directory of blogs. I dont know how your blog came up, must have been a typo, Your blog looks good. Have a nice day. Big thanks for the useful info i found on Da pra confiar nos arquivos PDFs?. </content>
+    </comment>
+    <comment id="e3259484-60da-4b96-8249-96a1c38210e7" approved="True">
+      <date>2010-03-27 08:13:56</date>
+      <author>toe nail fungus cure</author>
+      <email>kanipesdkanipe@aol.com</email>
+      <country />
+      <ip>172.129.54.141</ip>
+      <website>http://www.nail-fungus-treatments.com/</website>
+      <content>I wanted to say that it's nice to know that someone else also mentioned this as I had trouble finding the same info elsewhere. This was the first place that told me the answer.  Big thanks for the useful info i found on Da pra confiar nos arquivos PDFs?. </content>
+    </comment>
+    <comment id="e31e4a4a-f68b-4ab9-8afb-3d4edf0f34a9" approved="True">
+      <date>2010-03-27 11:03:36</date>
+      <author>30 day cash advance</author>
+      <email>karen.dillman@atricom.com</email>
+      <country />
+      <ip>79.116.143.194</ip>
+      <website>http://www.flyingloans.com/</website>
+      <content>I usually dont post in Blogs but your blog forced me to, amazing work.. beautiful </content>
+    </comment>
+    <comment id="7425fc82-08a8-4fa5-b956-1cb0a5081176" approved="True">
+      <date>2010-03-27 11:38:59</date>
+      <author>cash advances online</author>
+      <email>kapone22@hotmail.com</email>
+      <country />
+      <ip>79.116.143.194</ip>
+      <website>http://www.flyingloans.com/</website>
+      <content>Aw, this was a really quality post. In theory I'd like to write like this too - taking time and real effort to make a good article... but what can I say... I procrastinate alot and never seem to get something done.</content>
+    </comment>
+    <comment id="bc50c378-f313-44f3-8305-946cd98c5dc0" approved="True">
+      <date>2010-04-05 17:19:33</date>
+      <author>debt management plan</author>
+      <email>nanderson@skhandtool.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-debt-settlement.com/</website>
+      <content>This is such a great resource that you are providing and you give it away for free. I love seeing websites that understand the value of providing a quality resource for free. It?s the old what goes around comes around routine. </content>
+    </comment>
+    <comment id="2a8f4c5c-6f1c-4426-b939-4c27a4235694" approved="True">
+      <date>2010-04-06 08:34:19</date>
+      <author>how to lose cellulite</author>
+      <email>kaquinter@aol.com</email>
+      <country>us</country>
+      <ip>172.130.27.197</ip>
+      <website>http://www.super-cellulite-treatment.com/</website>
+      <content>I wanted to thank you for this great read!! I definitely enjoying every little bit of it.I have you bookmarked to check out new stuff you post. Big thanks for the useful info i found on Da pra confiar nos arquivos PDFs?. </content>
+    </comment>
+    <comment id="b64b902c-a088-485a-bd88-12b9a327c662" approved="True">
+      <date>2010-04-06 11:40:41</date>
+      <author>cellulite home remedies</author>
+      <email>kapina84@hotmail.com</email>
+      <country>us</country>
+      <ip>172.129.195.158</ip>
+      <website>http://www.super-cellulite-treatment.com/</website>
+      <content>Hello. Great job. I did not expect this on a Wednesday. This is a great story.  Big thanks for the useful info i found on Da pra confiar nos arquivos PDFs?. </content>
+    </comment>
+    <comment id="f825f54f-cb0c-404d-a16d-969ade11b41c" approved="True">
+      <date>2010-04-06 11:48:57</date>
+      <author>credit card debt elimination</author>
+      <email>nanny01@charter.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-debt-settlement.com/</website>
+      <content>Very, very cool site site! I am loving it!! Will come back again - taking you feeds also, Thanks.</content>
+    </comment>
+    <comment id="425962c7-de72-4a4b-b378-bd2ba126c7ac" approved="True">
+      <date>2010-04-11 19:08:59</date>
+      <author>fast money loans</author>
+      <email>kapowo@aol.com</email>
+      <country>us</country>
+      <ip>79.116.143.101</ip>
+      <website>http://ezinearticles.com/?Short-Term-Personal-Loan---Fast-and-Easy-Online-Money-Solution&amp;id=2201622</website>
+      <content>I wanted to say that it's nice to know that someone else also mentioned this as I had trouble finding the same info elsewhere. This was the first place that told me the answer. Thanks.</content>
+    </comment>
+    <comment id="afeaa457-822c-4623-8d22-ba856e021350" approved="True">
+      <date>2010-04-13 00:02:34</date>
+      <author>fast money loans</author>
+      <email>karen@fullmer.com</email>
+      <country>us</country>
+      <ip>79.116.143.101</ip>
+      <website>http://ezinearticles.com/?Poor-Credit-Personal-Loans---Solve-Your-Problems-Fast&amp;id=2049354</website>
+      <content>my God, i thought you were going to chip in with some decisive insght at the end there, not leave it with ‘we leave it to you to decide’.</content>
+    </comment>
+    <comment id="732cf385-42d2-4d81-91a2-3cbe113b34c4" approved="True">
+      <date>2010-05-03 02:27:28</date>
+      <author>small personal loan</author>
+      <email>kar1996@yahoo.com</email>
+      <country>us</country>
+      <ip>79.116.143.184</ip>
+      <website>http://www.sonicloans.net/small-personal-loan.html</website>
+      <content>Thanks for taking the time to discuss this, I feel strongly about it and love learning more on this topic. If possible, as you gain expertise, would you mind updating your blog with more information? It is extremely helpful for me.</content>
+    </comment>
+    <comment id="6b0c418f-d42b-4048-9451-0acfdc8def02" approved="True">
+      <date>2010-05-03 14:33:32</date>
+      <author>payday loan company</author>
+      <email>kareka@att.net</email>
+      <country>us</country>
+      <ip>79.116.143.184</ip>
+      <website>http://www.sonicloans.net/payday-loan-company.html</website>
+      <content>Please, can you PM me and tell me few more thinks about this, I am really fan of your blog...</content>
+    </comment>
+    <comment id="4a109418-6d7f-4f2d-9169-43c38a6cff4b" approved="True">
+      <date>2010-05-12 08:45:40</date>
+      <author>american cash advance</author>
+      <email>kanielame@aol.com</email>
+      <country>us</country>
+      <ip>172.190.215.152</ip>
+      <website>http://www.globalpaydayloans.com/american-cash-advance.htm</website>
+      <content>There is obviously a lot to know about this.  I think you made some good points in Features also.</content>
+    </comment>
+    <comment id="fb8f23ef-f614-49bc-8f3e-78046d1f6091" approved="True">
+      <date>2010-05-12 16:03:37</date>
+      <author>easy get loan payday</author>
+      <email>karanzak@charter.net</email>
+      <country>us</country>
+      <ip>79.116.142.159</ip>
+      <website>http://www.globalpaydayloans.com/easy-get-loan-payday.htm</website>
+      <content>Aw, this was a really quality post. In theory I'd like to write like this too - taking time and real effort to make a good article... but what can I say... I procrastinate alot and never seem to get something done.</content>
+    </comment>
+    <comment id="23377e44-763c-4181-b0a1-5b3ba58b8eed" approved="True">
+      <date>2010-05-19 00:04:06</date>
+      <author>online pay day loan</author>
+      <email>kapanelli@yahoo.com</email>
+      <country>us</country>
+      <ip>79.116.143.244</ip>
+      <website>http://www.flyingloans.com/online-pay-day-loan.htm</website>
+      <content>I usually dont post in Blogs but your blog forced me to, amazing work.. beautiful </content>
+    </comment>
+    <comment id="53b1b14d-c4d0-4056-92c4-05a34dbd925c" approved="True">
+      <date>2010-05-24 20:35:32</date>
+      <author>pay day cash advance</author>
+      <email>kar.fred@att.net</email>
+      <country>us</country>
+      <ip>79.116.143.202</ip>
+      <website>http://www.flyingloans.com/pay-day-cash-advance.htm</website>
+      <content>Hi Webmaster, commenters and everybody else !!! The blog was absolutely fantastic! Lots of great information and inspiration, both of which we all need!Keep 'em coming... you all do such a great job at such Concepts... can't tell you how much I, for one appreciate all you do!</content>
+    </comment>
+  </comments>
+  <categories />
+  <notifications />
+</post>

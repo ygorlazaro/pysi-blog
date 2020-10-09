@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <avatar>none</avatar>
+  <storagelocation>~/App_Data/</storagelocation>
+  <enablecountryincomments>True</enablecountryincomments>
+  <searchcommentlabeltext>Incluir comentários</searchcommentlabeltext>
+  <enablerating>True</enablerating>
+  <enablerelatedposts>True</enablerelatedposts>
+  <postsperfeed>15</postsperfeed>
+  <fileextension>.aspx</fileextension>
+  <removewhitespaceinstylesheets>True</removewhitespaceinstylesheets>
+  <geocodinglatitude />
+  <endorsement>http://www.dotnetblogengine.net/syndication.axd</endorsement>
+  <showlivepreview>True</showlivepreview>
+  <enablecommentsearch>True</enablecommentsearch>
+  <iscocommentenabled>True</iscocommentenabled>
+  <authorname>Pysi Blog</authorname>
+  <displaycommentsonrecentposts>True</displaycommentsonrecentposts>
+  <theme>Dirtylicious</theme>
+  <enabletrackbacksend>True</enabletrackbacksend>
+  <enablessl>False</enablessl>
+  <postsperpage>10</postsperpage>
+  <htmlheader />
+  <mobiletheme>Dirtylicious</mobiletheme>
+  <syndicationformat>Rss</syndicationformat>
+  <blogrollmaxlength>23</blogrollmaxlength>
+  <showpostnavigation>True</showpostnavigation>
+  <email>contato@pysi.com.br</email>
+  <enablepingbacksend>True</enablepingbacksend>
+  <dayscommentsareenabled>0</dayscommentsareenabled>
+  <showdescriptioninpostlist>False</showdescriptioninpostlist>
+  <blogrollvisibleposts>1</blogrollvisibleposts>
+  <timezone>-3</timezone>
+  <enablepingbackreceive>True</enablepingbackreceive>
+  <smtpusername>contato@pysi.com.br</smtpusername>
+  <searchdefaulttext>Termo da busca</searchdefaulttext>
+  <description>Just'n Everywhere</description>
+  <trackingscript />
+  <enabletrackbackreceive>True</enabletrackbackreceive>
+  <alternatefeedurl />
+  <enableopensearch>True</enableopensearch>
+  <numberofrecentposts>5</numberofrecentposts>
+  <displayratingsonrecentposts>True</displayratingsonrecentposts>
+  <numberofrecentcomments>10</numberofrecentcomments>
+  <enablecontactattachments>True</enablecontactattachments>
+  <searchbuttontext>Busca</searchbuttontext>
+  <name>Pysi Blog</name>
+  <emailsubjectprefix>Pysi Blog</emailsubjectprefix>
+  <handlewwwsubdomain />
+  <contactformmessage>Obrigado pelo contato. Iremos responder assim que possível.</contactformmessage>
+  <smtppassword>age14rjy</smtppassword>
+  <smtpserverport>25</smtpserverport>
+  <smtpserver>smtp.pysi.com.br</smtpserver>
+  <contactthankmessage>Obrigado, a mensagem foi enviada.</contactthankmessage>
+  <timestamppostlinks>False</timestamppostlinks>
+  <geocodinglongitude />
+  <language>en-GB</language>
+  <enablereferrertracking>True</enablereferrertracking>
+  <iscommentsenabled>True</iscommentsenabled>
+  <blogrollupdateminutes>60</blogrollupdateminutes>
+  <culture>pt-BR</culture>
+  <sendmailoncomment>True</sendmailoncomment>
+  <enablecommentsmoderation>False</enablecommentsmoderation>
+  <enablehttpcompression>True</enablehttpcompression>
+</settings>

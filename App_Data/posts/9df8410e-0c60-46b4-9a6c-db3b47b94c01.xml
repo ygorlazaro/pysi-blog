@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Ygor Lazaro</author>
+  <title>Eu já disse que amo esse navegador?</title>
+  <description />
+  <content>&lt;div&gt;
+J&amp;aacute; comentamos algumas vezes (&lt;a href="/blog/post/Qual-navegador-voce-usa.aspx" target="_blank"&gt;aqui&lt;/a&gt;, &lt;a href="/blog/post/Google-Chrome-OS---World-at-War-Version.aspx" target="_blank"&gt;aqui&lt;/a&gt; e &lt;a href="/blog/post/Browsers-sem-modo-porno-me-fazem-vomitar.aspx" target="_blank"&gt;aqui&lt;/a&gt;) que o Google Chrome &amp;eacute; o melhor navegador que existe. Com a integra&amp;ccedil;&amp;atilde;o de aplicativos online da Google voc&amp;ecirc; pode ter seu Gmail, documentos, orkut, youtube, agenda, dentre outros servi&amp;ccedil;os como aplicativos f&amp;iacute;sicos, quase que instalados no seu computador para horas de &amp;quot;offliniedade&amp;quot;. Mas e que tal jogar no Google Chrome? E n&amp;atilde;o estou falando de emuladores de Atari.
+&lt;/div&gt;
+&lt;div&gt;
+A Google, atrav&amp;eacute;s do projeto opensource do Chrome, o &lt;a href="http://www.gizmodo.com.br/tags/chromium" target="_blank"&gt;Chromium&lt;/a&gt;, est&amp;aacute; trabalhando num plug-in chamado &lt;a href="http://google-code-updates.blogspot.com/2009/04/toward-open-web-standard-for-3d.html" target="_blank"&gt;O3D&lt;/a&gt;. Com ele voc&amp;ecirc; pode usar no navegador recursos de acelera&amp;ccedil;&amp;atilde;o de hardware, como processadores diretamente e placas de v&amp;iacute;deo.
+&lt;/div&gt;
+&lt;div&gt;
+O plug-in seguir&amp;aacute; um padr&amp;atilde;o aberto, que poder&amp;aacute; ter jogos desenvolvidos para a plataforma por qualquer programador. Veja um dos exemplos do plug-in de jogos do Chrome, em a&amp;ccedil;&amp;atilde;o:
+&lt;/div&gt;
+&lt;div&gt;
+&lt;object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="425" height="344"&gt;
+	&lt;param name="width" value="425" /&gt;
+	&lt;param name="height" value="344" /&gt;
+	&lt;param name="allowscriptaccess" value="always" /&gt;
+	&lt;param name="allowfullscreen" value="true" /&gt;
+	&lt;param name="src" value="http://www.youtube.com/v/uofWfXOzX-g&amp;amp;rel=0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;hl=en&amp;amp;feature=player_embedded&amp;amp;fs=1" /&gt;
+	&lt;embed type="application/x-shockwave-flash" width="425" height="344" allowscriptaccess="always" allowfullscreen="true" src="http://www.youtube.com/v/uofWfXOzX-g&amp;amp;rel=0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;hl=en&amp;amp;feature=player_embedded&amp;amp;fs=1"&gt;&lt;/embed&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+&lt;div&gt;
+Fonte: &lt;a href="http://gizmodo.com.br/conteudo/google-chrome-com-aceleracao-3d-por-hardware-para-voce-jogar-no-navegador" target="_blank"&gt;Gizmodo&lt;/a&gt;
+&lt;/div&gt;
+</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2009-07-24 23:18:00</pubDate>
+  <lastModified>2009-07-24 23:22:35</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>Eu-ja-disse-que-amo-esse-navegador</slug>
+  <tags>
+    <tag>google</tag>
+    <tag>chrome</tag>
+    <tag>jogos</tag>
+    <tag>3d</tag>
+    <tag>navegador</tag>
+    <tag>chromium</tag>
+    <tag>o3d</tag>
+  </tags>
+  <comments>
+    <comment id="01d6b799-8d3a-40d5-960b-4601bab16983" approved="True">
+      <date>2009-07-25 16:15:50</date>
+      <author>Juan</author>
+      <email>juan@pysi.com.br</email>
+      <country>br</country>
+      <ip>187.15.4.17</ip>
+      <content>QUem disse que o Chrome &amp;#233; o melhor navegador que existe, algu&amp;#233;m esqueceu que existe o firefox?
+Obs: Estou na festa do Gustavo, filho do Jefferson, patr&amp;#227;o do Ygor, kof, kof, e advinha qual navegador que eles tem instalado aqui?
+SIIIM, FIREFOX
+[flamewar mode on]
+Firefox &amp;#233; o melhor
+
+#prontofalei</content>
+    </comment>
+    <comment id="a5b4b242-cefc-4e16-bd67-0c8bb3c18ec1" approved="True">
+      <date>2009-07-25 22:04:58</date>
+      <author>Ygor Lazaro</author>
+      <email>ygor@pysi.com.br</email>
+      <country>br</country>
+      <ip>201.29.31.156</ip>
+      <website>http://www.pysi.com.br/</website>
+      <content>Juan, n&amp;#227;o tem discuss&amp;#227;o.
+
+Existem dois tipos de navegadores: Os sistemas operacionais (Google Chrome Rules) e os outros. ;)
+
+</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>d564f3df-3a44-4a3a-91b0-aaca4116a78b</category>
+  </categories>
+  <notifications />
+</post>

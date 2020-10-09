@@ -1,0 +1,44 @@
+<Users>
+  <User>
+    <UserName>Admin</UserName>
+    <Password>age14rjy</Password>
+    <Email>post@example.com</Email>
+    <LastLoginTime>2007-12-05 20:46:40</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Ygor Lazaro</UserName>
+    <Password>age14rjy</Password>
+    <Email>ygor@pysi.com.br</Email>
+    <LastLoginTime>2009-05-31 20:00:13</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Juan St. Clair</UserName>
+    <Password>rampage</Password>
+    <Email>juan@pysi.com.br</Email>
+    <LastLoginTime>2009-06-03 21:02:32</LastLoginTime>
+  </User>
+  <User>
+    <UserName>bruno</UserName>
+    <Password>fallout</Password>
+    <Email>bruno@pysi.com.br</Email>
+    <LastLoginTime>2010-03-25 11:40:46</LastLoginTime>
+  </User>
+  <User>
+    <UserName>kelly</UserName>
+    <Password>123456</Password>
+    <Email>kelly@pysi.com.br</Email>
+    <LastLoginTime>2010-03-25 11:41:03</LastLoginTime>
+  </User>
+  <User>
+    <UserName>ricardo</UserName>
+    <Password>123456</Password>
+    <Email>ricardo@pysi.com.br</Email>
+    <LastLoginTime>2010-03-25 11:41:18</LastLoginTime>
+  </User>
+  <User>
+    <UserName>Helio JFF</UserName>
+    <Password>270451</Password>
+    <Email>heliojff@hotmail.com</Email>
+    <LastLoginTime>2010-04-06 14:04:32</LastLoginTime>
+  </User>
+</Users>

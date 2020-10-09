@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Ygor Lazaro</author>
+  <title>Haiku (sem piadas) - O melhor sistema operacional ever</title>
+  <description />
+  <content>&lt;p&gt;
+Entre 1990 e 2001 exitiu uma santa empresa, a &lt;strong&gt;&lt;a href="http://pt.wikipedia.org/wiki/Be_Incorporated" target="_blank"&gt;Be Incorporated&lt;/a&gt;&lt;/strong&gt;. A &lt;strong&gt;Be Incorporated&lt;/strong&gt;, que com todos os m&amp;eacute;ritos merece ter seu nome sempre em negrito e destaque, fopi uma empresa valente, ousada, e criadora do melhor sistema operacional j&amp;aacute; desenvolvido: &lt;strong&gt;&lt;a href="http://pt.wikipedia.org/wiki/Beos" target="_blank"&gt;BeOS&lt;/a&gt;&lt;/strong&gt;. A hist&amp;oacute;ria da &lt;strong&gt;Be Incorporated&lt;/strong&gt; se resume assim: Fundada em 1990 por um ex-funcion&amp;aacute;rio da &lt;a href="http://www.apple.com" target="_blank"&gt;Apple&lt;/a&gt;, &lt;a href="http://pt.wikipedia.org/wiki/Jean-Louis_Gass%C3%A9e" target="_blank"&gt;Jean-Loius Gass&amp;eacute;e&lt;/a&gt;, criou o sagrado &lt;strong&gt;BeOS&lt;/strong&gt;, um sistema operacional desenhado para rodar em computadores da &lt;strong&gt;Be Incorporated&lt;/strong&gt;, os &lt;strong&gt;&lt;a href="http://pt.wikipedia.org/wiki/BeBox" target="_blank"&gt;BeBox&lt;/a&gt;&lt;/strong&gt;. Mais tarde, foi portado para Macintosh mesmo quando a Apple n&amp;atilde;o havia migrado a plataforma para Intel (isso aconteceu na d&amp;eacute;cada de 2000). 
+&lt;/p&gt;
+&lt;p&gt;
+Em 1998, a Apple fechou a plataforma, fazendo o &lt;strong&gt;BeOS&lt;/strong&gt; ser for&amp;ccedil;ado a migrar para os PC&amp;#39;s (e a fazer mais sucesso). Em 2000, o sistema foi lan&amp;ccedil;ado em sua vers&amp;atilde;o mais famosa e &amp;uacute;ltima: o &lt;strong&gt;BeOS&amp;nbsp;5 Personal Edition&lt;/strong&gt;, que era mais compacto, mas totalmente gratuito. Sites de aplicativos especialmente desenvolvidos para o &lt;strong&gt;BeOS&lt;/strong&gt;, como o &lt;strong&gt;&lt;a href="http://www.bebits.com" target="_blank"&gt;BeBits&lt;/a&gt;&lt;/strong&gt;, pipocaram e transformaram o sistema num subterf&amp;uacute;gio de quem n&amp;atilde;o queria usar o &lt;a href="http://www.microsoft.com/windows" target="_blank"&gt;Windows&lt;/a&gt;, mas n&amp;atilde;o queria se aventurar no &lt;a href="http://www.linux.org" target="_blank"&gt;Linux&lt;/a&gt;. 
+&lt;/p&gt;
+&lt;p&gt;
+Com supervelocidade (inclusive pros padr&amp;otilde;es de hoje), foco no desenvolvimento para multim&amp;iacute;dia (coisa que s&amp;oacute; agora est&amp;aacute; acontecendo com os sistemas operacionais), microkernel, 64 bits, o &lt;strong&gt;BeOS&lt;/strong&gt; era o sistema do futuro, feito no passado, e que pagou o pre&amp;ccedil;o do pioneirismo: Em 2001, a &lt;strike&gt;semi-falida&lt;/strike&gt; Palm (PalmOne Inc.) comprou a &lt;strong&gt;Be Incorporated&lt;/strong&gt;, se apoderou dos c&amp;oacute;digos-fonte e transformou a rec&amp;eacute;m-comprada empresa em setores da Palm &lt;strike&gt;semi-falida&lt;/strike&gt;. 
+&lt;/p&gt;
+&lt;p&gt;
+O c&amp;oacute;digo-fonte da vers&amp;atilde;o 4.51 do &lt;strong&gt;BeOS&lt;/strong&gt; &lt;strike&gt;felizmente&lt;/strike&gt; foi conseguido pela &lt;a href="http://pt.wikipedia.org/wiki/YellowTAB" target="_blank"&gt;yellowTab&lt;/a&gt;, e depois de mais umas confus&amp;otilde;es de troca-troca de m&amp;atilde;os (oba), o sistema acabou virando o Haiku, totalmente gr&amp;aacute;tis e livre. 
+&lt;/p&gt;
+&lt;p&gt;
+Bom, esse texto enorme (&lt;strike&gt;ainda mais num dia em que eu n&amp;atilde;o estava com paci&amp;ecirc;ncia para escrever&lt;/strike&gt;) &amp;eacute; s&amp;oacute; para anunciar uma not&amp;iacute;cia que eu esperava h&amp;aacute; tempos: depois de oito anos de desenvolvimento intenso, o Haiku chegou em est&amp;aacute;gio Alpha 1. Seus requesitos m&amp;iacute;nimos s&amp;atilde;o 600Mb de espa&amp;ccedil;o em disco, processador de 400MHz (n&amp;atilde;o custar&amp;aacute; muito para rodar ele num celular) e 128Mb de mem&amp;oacute;ria. 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="http://www.bing.com/images/search?q=beos+filterui:imagesize-desktop_w_1280+filterui:imagesize-desktop_h_1024&amp;amp;qpvt=beos&amp;amp;FORM=R5FD3" target="_blank"&gt;Veja fotos do sistema aqui&lt;/a&gt; 
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="/blog/image.axd?picture=logo_beos.jpg" alt="" /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Fonte: &lt;a href="http://www.guiadohardware.net/noticias/2009-09/4AAFE1EA.html" target="_blank"&gt;GuiaDoHardware&lt;/a&gt; (e eu sou um usu&amp;aacute;rio feliz) 
+&lt;/p&gt;
+</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2009-09-15 20:48:00</pubDate>
+  <lastModified>2009-09-15 21:14:00</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>Haiku-(sem-piadas)---O-melhor-sistema-operacional-ever</slug>
+  <tags>
+    <tag>haiku</tag>
+    <tag>beos</tag>
+    <tag>be incorporated</tag>
+    <tag>be</tag>
+    <tag>palm</tag>
+    <tag>sistema operacional</tag>
+    <tag>apple</tag>
+    <tag>pc</tag>
+    <tag>linux</tag>
+    <tag>windows</tag>
+    <tag>yellowtab</tag>
+  </tags>
+  <comments />
+  <categories>
+    <category>0b1ef33e-64fe-495d-99b9-39ea1ffef7dc</category>
+  </categories>
+  <notifications />
+</post>

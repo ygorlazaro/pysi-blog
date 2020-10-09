@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Ygor Lazaro</author>
+  <title>WolframAlpha - A pesquisa web, como deveria ser</title>
+  <description />
+  <content>&lt;p&gt;
+Voc&amp;ecirc; provavelmente usa &lt;a href="http://www.google.com" target="_blank"&gt;Google&lt;/a&gt; ou &lt;a href="http://www.bing.com" target="_blank"&gt;Bing&lt;/a&gt; para fazer as buscas. Se for um pouco mais caxias talvez use o &lt;a href="http://www.yahoo.com" target="_blank"&gt;Yahoo!&lt;/a&gt; &lt;strike&gt;(que ainda duvido que n&amp;atilde;o ir&amp;aacute; falecer em breve)&lt;/strike&gt;. Mas j&amp;aacute; tentou utilizar o &lt;a href="http://www.wolframalpha.com" target="_blank"&gt;WolframAlpha&lt;/a&gt;? 
+&lt;/p&gt;
+&lt;p&gt;
+WolframAlpha n&amp;atilde;o &amp;eacute; um site de busca normal, como esses nomes grandes que eu citei. Ele &amp;eacute; um site que tenta responder suas perguntas, em vez de simplesmente encontrar uma p&amp;aacute;gina. Ele possui um super de dados com informa&amp;ccedil;&amp;otilde;es que v&amp;atilde;o desde notas musicais at&amp;eacute; estruturas do sistema solar e espa&amp;ccedil;o sideral. 
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;br /&gt;
+&lt;img src="/blog/image.axd?picture=wolframalpha.jpg" alt="" /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Uma simples conta (2+2) inserida na pesquisa retorna o resultado (4), o nome do resultado (four, infelizmente ainda somente em ingl&amp;ecirc;s) e uma representa&amp;ccedil;&amp;atilde;o gr&amp;aacute;fica do resultado (no caso, quatro bolinhas para simbolizar a quantidade). 
+&lt;/p&gt;
+&lt;p&gt;
+Vamos ver algo maior: inseri, aleatoriamente, a data 30/11/1985. O resultado me diz que o dia foi um s&amp;aacute;bado, que de l&amp;aacute; at&amp;eacute; hoje, dia 19/06/2009, se passaram 23 anos, 6 meses e 19 dias, que essa data era o dia n&amp;uacute;mero 334 do ano de 1985 e era a semana n&amp;uacute;mero 48... Tem informa&amp;ccedil;&amp;otilde;es que dizem at&amp;eacute; a fase da lua ou os hor&amp;aacute;rios de nascimento e p&amp;ocirc;r-do-sol baeados na minha localiza&amp;ccedil;&amp;atilde;o geogr&amp;aacute;fica. 
+&lt;/p&gt;
+&lt;p&gt;
+Coloque uma cidade: Miami. Como j&amp;aacute; deve imaginar, todas as informa&amp;ccedil;&amp;otilde;es sobre ela aparecem, como temperatura local, popula&amp;ccedil;&amp;atilde;o, &amp;aacute;rea metropolitana, at&amp;eacute; mesmo um mapa. Mas em vez de pesquisar somente Miami, coloque Miami | Los Angeles. O site/sistema faz uma compara&amp;ccedil;&amp;atilde;o dentre essas duas cidades, colocando lado a lado suas informa&amp;ccedil;&amp;otilde;es, fuso hor&amp;aacute;rio, popula&amp;ccedil;&amp;atilde;o... O mapa &amp;eacute; modificado para mostrar as duas cidades, e um c&amp;aacute;lculo de dist&amp;acirc;ncia entre as duas &amp;eacute; feito, dizendo-me que um voo entre elas levaria 4 horas e 15 minutos. 
+&lt;/p&gt;
+&lt;p&gt;
+O sistema ainda trabalha com muito mais coisas do que parece: Ele calcula cota&amp;ccedil;&amp;atilde;o das a&amp;ccedil;&amp;otilde;es de empresas apenas colocando o nome da empresa. F&amp;oacute;rmulas matem&amp;aacute;ticas com seno, coseno, esponencia&amp;ccedil;&amp;otilde;es, dentre outros, ele tira facilmente. Notas m&amp;uacute;sicas s&amp;atilde;o representadas de forma gr&amp;aacute;fica e sonora. A vida de pessoas importantes, com direito a linha do tempo. Convers&amp;atilde;o de velocidades, temperaturas e medidas em geral. F&amp;oacute;rmulas qu&amp;iacute;micas. Cota&amp;ccedil;&amp;atilde;o de moedas. Massas de planetas. Caracteres ASCII. N&amp;uacute;meros romanos. Cansei... :) 
+&lt;/p&gt;
+&lt;p&gt;
+Para fazer o uso do sistema, basta visitar o endere&amp;ccedil;o &lt;a href="http://www.wolframalpha.com/"&gt;www.wolframalpha.com&lt;/a&gt; e se divertir. &lt;a href="http://www.wolframalpha.com/examples/" target="_blank"&gt;Aqui voc&amp;ecirc; tem alguns exemplos de uso&lt;/a&gt;, mas sinta-se livre, pois ele &amp;eacute; extremamente completo. S&amp;oacute; n&amp;atilde;o vale pesquisar sua monografia completa, porque isso ele &lt;strike&gt;(ainda)&lt;/strike&gt; n&amp;atilde;o faz. 
+&lt;/p&gt;
+</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2009-06-19 08:32:00</pubDate>
+  <lastModified>2009-06-19 08:36:42</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>WolframAlpha---A-pesquisa-web2c-como-deveria-ser</slug>
+  <tags>
+    <tag>wolframalpha</tag>
+    <tag>google</tag>
+    <tag>bing</tag>
+    <tag>yahoo</tag>
+    <tag>busca</tag>
+  </tags>
+  <comments>
+    <comment id="be31742a-4b8a-409f-abed-f01e59d6c42d" approved="True">
+      <date>2009-06-19 09:06:22</date>
+      <author>Juan</author>
+      <email>juan@pysi.com.br</email>
+      <country>br</country>
+      <ip>187.14.137.83</ip>
+      <website>http://www.pysi.com.br/</website>
+      <content>gostei...
+essa eu n&amp;#227;o conhecia.
+&amp;#233; uma solu&amp;#231;&amp;#227;o pra quem n&amp;#227;o gosta do wikipedia kkkk</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>d564f3df-3a44-4a3a-91b0-aaca4116a78b</category>
+  </categories>
+  <notifications />
+</post>

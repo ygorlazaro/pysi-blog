@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Ygor Lazaro</author>
+  <title>Linguagens e plataformas de desenvolvimento web</title>
+  <description />
+  <content>&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;Iniciarei a partir de hoje, e toda a quarta-feira, uma s&amp;eacute;rie de posts sobre programa&amp;ccedil;&amp;atilde;o e desenvolvimento. Hoje eu quero apresentar a voc&amp;ecirc;s as principais ferramentas de desenvolvimento para a web. Iniciando, logicamente, com a minha &amp;aacute;rea de atua&amp;ccedil;&amp;atilde;o:&lt;/font&gt; &lt;/p&gt;&lt;strong&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;&lt;a href="http://www.asp.net" target="_blank"&gt;ASP.NET &amp;ndash; http://www.asp.net&lt;/a&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/strong&gt; &lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;Basicamente, o ASP.NET em si n&amp;atilde;o &amp;eacute; uma linguagem de programa&amp;ccedil;&amp;atilde;o, e sim, uma plataforma de desenvolvimento. Os sites e sistemas podem ser criados utilizando tanto as linguagens que v&amp;ecirc;m no Framework (C# e VB.Net) quanto linguagens de terceiros (Cobol e Fortran), ou ainda adapta&amp;ccedil;&amp;otilde;es de linguagens livres patrocinadas pela Microsoft (IronPython e IronRuby). &lt;/font&gt;&lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;&lt;strong&gt;Grande vantagem: &lt;/strong&gt;Gr&amp;aacute;tis e muito bem documentada. Tem in&amp;uacute;meros usu&amp;aacute;rios pela internet.&lt;br /&gt;&lt;strong&gt;Grande desvantagem: &lt;/strong&gt;Apesar de qualquer cliente conseguir navegar, o servidor precisa ser Microsoft.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal" align="center"&gt;&lt;img src="/blog/image.axd?picture=image001.png" alt="" width="250" height="77" /&gt;&lt;/p&gt;&lt;p style="text-align: left; margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal" align="center"&gt;[more]&amp;nbsp;&lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm; text-align: center" class="MsoNormal" align="center"&gt;&lt;span&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;a href="http://www.php.net" target="_blank"&gt;&lt;strong&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;PHP &amp;ndash; http://www.php.net&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/strong&gt; &lt;/a&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;O PHP pode ser considerada uma &amp;ldquo;linguagem de scripts&amp;rdquo; com acesso a banco de dados. &amp;Eacute; uma linguagem robusta e possui sua sintaxe desenhada na fam&amp;iacute;lia do C/C++/Java. N&amp;atilde;o &amp;eacute; a melhor linguagem para iniciar na programa&amp;ccedil;&amp;atilde;o tendo em conta a facilidade, mas ainda assim possui milhares de adeptos pelo mundo afora.&lt;/font&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;&lt;strong&gt;Grande vantagem: &lt;/strong&gt;Gr&amp;aacute;tis, e com muitos usu&amp;aacute;rios ativos. Existem algumas hospedagens gr&amp;aacute;tis de PHP.&lt;br /&gt;&lt;strong&gt;Grande desvantagem: &lt;/strong&gt;O c&amp;oacute;digo de desenvolvimento e o visual da p&amp;aacute;gina ficam misturados. Facilmente fica ileg&amp;iacute;vel.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal" align="center"&gt;&lt;img src="/blog/image.axd?picture=image003.png" alt="" width="180" height="95" /&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm; text-align: center" class="MsoNormal" align="center"&gt;&lt;span&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;a href="http://www.rubyonrails.org" target="_blank"&gt;&lt;strong&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;Ruby on Rails &amp;ndash; http://www.rubyonrails.org&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/strong&gt; &lt;/a&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;Simples, direta e objetiva. A linguagem Ruby (&lt;/font&gt;&lt;a href="http://www.ruby-lang.org/"&gt;&lt;font face="arial,helvetica,sans-serif" size="2" color="#0000ff"&gt;http://www.ruby-lang.org&lt;/font&gt;&lt;/a&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;) j&amp;aacute; &amp;eacute; por si s&amp;oacute; uma das mais f&amp;aacute;ceis de aprender. A plataforma On Rails leva esse poder de desenvolvimento para a Internet. Tem por filosofia o DRY (Don&amp;rsquo;t Repeat Yourself ou &amp;ldquo;n&amp;atilde;o refa&amp;ccedil;a do zero&amp;rdquo;), ou seja, se uma fun&amp;ccedil;&amp;atilde;o existe, use-a, e n&amp;atilde;o tente reinventar a roda.&lt;/font&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;&lt;strong&gt;Grande vantagem:&lt;/strong&gt; Simples de programar e f&amp;aacute;cil de aprender.&lt;br /&gt;&lt;strong&gt;Grande desvantagem: &lt;/strong&gt;&amp;Eacute; f&amp;aacute;cil deixar o sistema com a execu&amp;ccedil;&amp;atilde;o lenta.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal" align="center"&gt;&lt;img src="/blog/image.axd?picture=image005.jpg" alt="" width="150" height="178" /&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm; text-align: center" class="MsoNormal" align="center"&gt;&lt;span&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;strong&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;&lt;a href="http://www.java.com" target="_blank"&gt;Java &amp;ndash; http://www.java.com&lt;/a&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/strong&gt; &lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;A linguagem de desenvolvimento dos sonhos de 8 entre 10 programadores (n&amp;atilde;o este que escreve). &amp;Eacute; um linguagem/plataforma extremamente robusta, rodando praticamente em qualquer dispositivo e sistema operacional. Foi originalmente desenhado para rodar at&amp;eacute; em torradeiras, e usa a filosofia Write Once, Run Everywhere (programe uma vez, rode em todo o lugar).&lt;/font&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font size="+0"&gt;&lt;font size="+0"&gt;&lt;font size="2"&gt;&lt;font face="arial,helvetica,sans-serif"&gt;&lt;strong&gt;Grande vantagem: &lt;/strong&gt;Multi-plataforma e protegida pela Sun/Oracle.&lt;br /&gt;&lt;strong&gt;Grande desvantagem: &lt;/strong&gt;Desenvolvimento dif&amp;iacute;cil, a linguagem n&amp;atilde;o &amp;eacute; a das mais amig&amp;aacute;veis.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt; &lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal" align="center"&gt;&lt;img src="/blog/image.axd?picture=image006.png" alt="" width="100" height="183" /&gt;&lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm; text-align: center" class="MsoNormal" align="center"&gt;&lt;span&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 10pt; margin-left: 0cm" class="MsoNormal"&gt;&lt;font face="arial,helvetica,sans-serif" size="2"&gt;Na quarta que vem entraremos com mais detalhes no ASP.Net, a plataforma de desenvolvimento mais utilizada atualmente, e patrocinada por nada menos que a Microsoft.&lt;/font&gt; &lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2009-06-03 09:08:00</pubDate>
+  <lastModified>2009-06-06 18:35:25</lastModified>
+  <raters>3</raters>
+  <rating>5</rating>
+  <slug>Linguagens-e-plataformas-de-desenvolvimento-web</slug>
+  <tags>
+    <tag>linguagens</tag>
+    <tag>programacao</tag>
+    <tag>internet</tag>
+    <tag>desenvolvimento</tag>
+    <tag>asp.net</tag>
+    <tag>php</tag>
+    <tag>ruby</tag>
+    <tag>rails</tag>
+    <tag>java</tag>
+  </tags>
+  <comments>
+    <comment id="d04bc5e1-a06d-493d-a9d4-a5a8f6d845cc" approved="True">
+      <date>2009-06-03 09:24:53</date>
+      <author>Juan</author>
+      <email>juan@pysi.com.br</email>
+      <country>br</country>
+      <ip>201.29.101.157</ip>
+      <website>http://www.pysi.com.br/</website>
+      <content>Muito bom Ygor!
+Mesmo eu achando que css &amp;#233; quase t&amp;#227;o complexo quanto JAVA ou Assembly kkkk
+brinks, mas falando s&amp;#233;rio agora, parab&amp;#233;ns pela iniciativa!</content>
+    </comment>
+    <comment id="fed58a9c-04e9-4019-adad-4452b1caf2a0" approved="True">
+      <date>2009-06-03 18:09:48</date>
+      <author>Victor</author>
+      <email>victor_barbosa_araujo@yahoo.com.br</email>
+      <country>br</country>
+      <ip>201.51.233.130</ip>
+      <content>Show... mas cade minhas linguagens de programa&amp;#231;&amp;#227;o???? T_T  cade o Typhon???
+uhauhuhauhauhauhuhahuauhauha
+
+Mas ta muito bom msm ^^</content>
+    </comment>
+    <comment id="0173bf2b-6dc8-4f23-88cb-b6aa20da8c17" approved="True">
+      <date>2010-01-05 13:51:36</date>
+      <author>payday loans</author>
+      <email>nannyc1@yahoo.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.globalpaydayloans.com/</website>
+      <content>This is my first time i visit here. I found so many interesting stuff in your blog especially its discussion. From the tons of comments on your articles, I guess I am not the only one having all the enjoyment here! keep up the good work.</content>
+    </comment>
+    <comment id="a0077458-0659-4afc-a3a6-b00dbe32284d" approved="True">
+      <date>2010-01-05 14:12:04</date>
+      <author>fast loans</author>
+      <email>nandolmt@hawaii.rr.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.globalpaydayloans.com/</website>
+      <content>This is a really good read for me, Must admit that you are one of the best bloggers I ever saw.Thanks for posting this informative article.</content>
+    </comment>
+    <comment id="c504fb7c-abfe-4792-b462-36742466aeaf" approved="True">
+      <date>2010-02-22 19:33:48</date>
+      <author>Colon cleansers</author>
+      <email>nanekib@netscape.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.super-colon-cleanses.com/</website>
+      <content>This is a really good read for me, Must admit that you are one of the best bloggers I ever saw.Thanks for posting this informative article.</content>
+    </comment>
+    <comment id="6853eb4b-0d99-439b-b2c7-fdf313516262" approved="True">
+      <date>2010-02-24 09:57:21</date>
+      <author>Acne treatment</author>
+      <email>kandy69880@aol.com</email>
+      <country />
+      <ip>79.116.139.239</ip>
+      <website>http://www.super-acne-treatment.com/</website>
+      <content>Hi Webmaster, commenters and everybody else !!! The blog was absolutely fantastic! Lots of great information and inspiration, both of which we all need!Keep 'em coming... you all do such a great job at such Concepts... can't tell you how much I, for one appreciate all you do!</content>
+    </comment>
+    <comment id="4e4b08c8-7238-4f39-a446-1e72287d5865" approved="True">
+      <date>2010-02-25 11:51:07</date>
+      <author>paydayloans</author>
+      <email>karen.fields@worldnet.att.net</email>
+      <country />
+      <ip>79.116.143.109</ip>
+      <website>http://www.sonicloans.net/</website>
+      <content>my God, i thought you were going to chip in with some decisive insght at the end there, not leave it with &amp;quot;we leave it to you to decide&amp;quot;.</content>
+    </comment>
+    <comment id="1a6fdf7c-1ed3-409c-828c-2db61e68ff59" approved="True">
+      <date>2010-02-25 13:34:50</date>
+      <author>paydayloans</author>
+      <email>kandsmiller@datarecall.net</email>
+      <country />
+      <ip>79.116.143.109</ip>
+      <website>http://www.sonicloans.net/</website>
+      <content>I wanted to say that it's nice to know that someone else also mentioned this as I had trouble finding the same info elsewhere. This was the first place that told me the answer. Thanks.</content>
+    </comment>
+    <comment id="95ea1129-634b-48f4-af6d-4976ae3c8a6a" approved="True">
+      <date>2010-02-27 02:52:21</date>
+      <author>personal loans</author>
+      <email>kandjhughes@sbcglobal.net</email>
+      <country />
+      <ip>79.116.142.33</ip>
+      <website>http://www.flyingloans.com/</website>
+      <content>Super-Duper site! I am loving it!! Will come back again - taking you feeds also, Thanks.</content>
+    </comment>
+    <comment id="c407c42c-80e2-450c-afbd-c0a5d59617eb" approved="True">
+      <date>2010-02-27 10:52:03</date>
+      <author>personal loans</author>
+      <email>kaoude@hotmail.com</email>
+      <country />
+      <ip>79.116.142.118</ip>
+      <website>http://www.flyingloans.com/</website>
+      <content>Aw, this was a really quality post. In theory I'd like to write like this too - taking time and real effort to make a good article... but what can I say... I procrastinate alot and never seem to get something done.</content>
+    </comment>
+    <comment id="78db6d59-046b-4afd-a35d-d15ef786e957" approved="True">
+      <date>2010-03-13 17:08:29</date>
+      <author>Stretch marks treatment</author>
+      <email>nannap@tiac.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.stretch-marks-treatments.com/</website>
+      <content>I usually dont post in Blogs but your blog forced me to, amazing work.. beautiful </content>
+    </comment>
+    <comment id="94f408fe-5c58-44e0-8922-5077e3d9d177" approved="True">
+      <date>2010-03-18 17:20:42</date>
+      <author>how to cure toenail fungus</author>
+      <email>karen.booker@conectiv.com</email>
+      <country />
+      <ip>172.190.249.36</ip>
+      <website>http://www.nail-fungus-treatments.com/</website>
+      <content>Hello. Great job. I did not expect this on a Wednesday. This is a great story.  Big thanks for the useful info i found on Linguagens e plataformas de desenvolvimento web. </content>
+    </comment>
+    <comment id="b69273da-7848-420c-9eae-e3392d359b0d" approved="True">
+      <date>2010-03-19 11:20:56</date>
+      <author>cellulite cream reviews</author>
+      <email>karatekid016@yahoo.com</email>
+      <country />
+      <ip>172.190.53.26</ip>
+      <website>http://www.super-cellulite-treatment.com/</website>
+      <content>I just hope to have understood this the way it was meant</content>
+    </comment>
+    <comment id="56f725b0-4fce-43b4-8518-7d128ec8ab8c" approved="True">
+      <date>2010-03-20 13:55:59</date>
+      <author>auto refinance loans</author>
+      <email>nannymelissa36@sbcglobal.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-car-loan.com/</website>
+      <content>There is obviously a lot to know about this.  I think you made some good points in Features also.</content>
+    </comment>
+    <comment id="fadcf9e2-5603-44cf-bc9b-161dc4bef6c8" approved="True">
+      <date>2010-03-21 12:40:43</date>
+      <author>auto financing for bad credit</author>
+      <email>nannybpage@bellsouth.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-car-loan.com/</website>
+      <content>Couldnt be written any better. Reading this post reminds me of my old room mate! He always kept talking about this. I will forward this article to him. Pretty sure he will have a good read. Thanks for sharing!</content>
+    </comment>
+    <comment id="8394a6f9-8dff-422b-837a-66291bf59da8" approved="True">
+      <date>2010-03-31 16:19:19</date>
+      <author>cure for genital warts</author>
+      <email>karen.westphal@my.sbc-stcharles.com</email>
+      <country />
+      <ip>172.190.152.226</ip>
+      <website>http://www.super-warts-treatment.com/</website>
+      <content>Me and my friend were arguing about an issue similar to this! Now I know that I was right. lol! Thanks for the information you post. Big thanks for the useful info i found on Linguagens e plataformas de desenvolvimento web. </content>
+    </comment>
+    <comment id="1f292573-823e-4734-ad8d-e1a521c9735c" approved="True">
+      <date>2010-04-01 08:34:01</date>
+      <author>genital wart treatment</author>
+      <email>kara_daluc@baseview.com</email>
+      <country />
+      <ip>172.190.112.245</ip>
+      <website>http://www.super-warts-treatment.com/</website>
+      <content>Hi there, I found your blog via Google while searching for first aid for a heart attack and your post looks very interesting for me. Big thanks for the useful info i found on Linguagens e plataformas de desenvolvimento web. </content>
+    </comment>
+    <comment id="54299ec6-8af9-4a44-bdce-a0759ede44b8" approved="True">
+      <date>2010-04-05 17:19:59</date>
+      <author>debt relief programs</author>
+      <email>nanettep@worldnet.att.net</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-debt-settlement.com/</website>
+      <content>This is such a great resource that you are providing and you give it away for free. I love seeing websites that understand the value of providing a quality resource for free. It?s the old what goes around comes around routine. </content>
+    </comment>
+    <comment id="dd56581e-f263-4cc2-8612-aafca35029dc" approved="True">
+      <date>2010-04-06 11:49:32</date>
+      <author>debt relief programs</author>
+      <email>nanners618@yahoo.com</email>
+      <country />
+      <ip>78.96.119.121</ip>
+      <website>http://www.online-debt-settlement.com/</website>
+      <content>Hi. I read a few of your other posts and i wanted to say thank you for the informative posts.</content>
+    </comment>
+    <comment id="e1a2290f-41fb-4bd0-b039-60b5a4fbcb63" approved="True">
+      <date>2010-04-11 19:09:09</date>
+      <author>best personal loans</author>
+      <email>kaonohika@msn.com</email>
+      <country>us</country>
+      <ip>79.116.143.101</ip>
+      <website>http://ezinearticles.com/?Bad-Credit-Unsecured-Personal-Loan&amp;id=2092544</website>
+      <content>You made some good points there. I did a search on the topic and found most people will agree with your blog.</content>
+    </comment>
+    <comment id="8eef8118-5dda-4982-a5ca-21de90d58a50" approved="True">
+      <date>2010-04-13 00:02:45</date>
+      <author>fast money loans</author>
+      <email>kar_goo@msn.com</email>
+      <country>us</country>
+      <ip>79.116.143.101</ip>
+      <website>http://ezinearticles.com/?Personal-Loans-For-People-With-Bad-Credit&amp;id=2092583</website>
+      <content>There is obviously a lot to know about this.  I think you made some good points in Features also.</content>
+    </comment>
+    <comment id="e9c81c35-add5-4cf8-baa6-5b43051fafc9" approved="True">
+      <date>2010-05-03 02:27:48</date>
+      <author>bad credit payday loan</author>
+      <email>karen.j.solomon1@verizon.net</email>
+      <country>us</country>
+      <ip>79.116.143.184</ip>
+      <website>http://www.sonicloans.net/bad-credit-payday-loan.html</website>
+      <content>Valuable information and excellent design you got here! I would like to thank you for sharing your thoughts and time into the stuff you post!! Thumbs up!</content>
+    </comment>
+    <comment id="f96ba78a-b0ac-4666-9e07-214c14b5f202" approved="True">
+      <date>2010-05-03 14:34:03</date>
+      <author>signature loans</author>
+      <email>kanesnuff4@hotmail.com</email>
+      <country>us</country>
+      <ip>79.116.143.184</ip>
+      <website>http://www.sonicloans.net/signature-loans.html</website>
+      <content>Couldnt be written any better. Reading this post reminds me of my old room mate! He always kept talking about this. I will forward this article to him. Pretty sure he will have a good read. Thanks for sharing!</content>
+    </comment>
+    <comment id="ac0dc98c-0e34-4b6a-8768-bfc61b5e1ac6" approved="True">
+      <date>2010-05-12 08:46:17</date>
+      <author>online secured loan</author>
+      <email>karaw26@hotmail.com</email>
+      <country>us</country>
+      <ip>172.190.215.152</ip>
+      <website>http://www.globalpaydayloans.com/online-secured-loan.htm</website>
+      <content>Hello. Great job. I did not expect this on a Wednesday. This is a good story. Thanks!</content>
+    </comment>
+    <comment id="4d13e73f-7d14-45e2-9a31-32f2ce1f9d39" approved="True">
+      <date>2010-05-12 16:04:19</date>
+      <author>apply for personal loan</author>
+      <email>karakins3@hotmail.com</email>
+      <country>us</country>
+      <ip>79.116.142.159</ip>
+      <website>http://www.globalpaydayloans.com/apply-for-personal-loan.htm</website>
+      <content>I just hope to have understood this the way it was meant</content>
+    </comment>
+    <comment id="428c94b7-1420-4f89-a2dc-4d982482b4a4" approved="True">
+      <date>2010-05-19 00:04:42</date>
+      <author>fast online loan</author>
+      <email>kanesha30741@yahoo.com</email>
+      <country>us</country>
+      <ip>79.116.143.244</ip>
+      <website>http://www.flyingloans.com/fast-online-loan.htm</website>
+      <content>Valuable information and excellent design you got here! I would like to thank you for sharing your thoughts and time into the stuff you post!! Thumbs up!</content>
+    </comment>
+    <comment id="0c4ddc20-ee69-4dd7-b1eb-858b179cdd73" approved="True">
+      <date>2010-05-24 20:36:19</date>
+      <author>online cash loan</author>
+      <email>karen@seasonalsales.com</email>
+      <country>us</country>
+      <ip>79.116.143.202</ip>
+      <website>http://www.flyingloans.com/online-cash-loan.htm</website>
+      <content>This is exactly what i was looking for. thank you for the informative post and keep up the good work!</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>d564f3df-3a44-4a3a-91b0-aaca4116a78b</category>
+    <category>60930500-05f3-4a98-a443-ca394d78d27c</category>
+    <category>2d9c3387-a85d-4d22-8737-05a1b4378a25</category>
+  </categories>
+  <notifications>
+    <email>juan@pysi.com.br</email>
+  </notifications>
+</post>

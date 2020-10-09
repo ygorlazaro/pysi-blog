@@ -1,0 +1,7 @@
+<opml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+  <body>
+    <outline title="Hut On Web" description="Programação, administração, rede, servidores e assuntos correlatos tudo em uma cabana" xfn="" xmlUrl="http://feeds2.feedburner.com/HutOnWeb" htmlUrl="http://blog.hutonweb.com" />
+    <outline title="Rádio Gordo" description="Devaneios, Humor, Poesia e Pensamentos de um Polaco Gordo" xfn="" xmlUrl="http://radiogordo.blogspot.com/feeds/posts/default" htmlUrl="http://www.radiogordo.com" />
+    <outline title="MeioBit" description="MeioBit" xfn="" xmlUrl="http://meiobit.com/index.xml" htmlUrl="http://www.meiobit.com" />
+  </body>
+</opml>

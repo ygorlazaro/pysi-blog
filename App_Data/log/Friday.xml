@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urls>
+  <url address="http://whois.domaintools.com" isSpam="True">1</url>
+  <url address="http://weblogs.com" isSpam="True">1</url>
+  <url address="http://www.orkut.com.br" isSpam="True">2</url>
+  <url address="http://www.pysi.com.br/blog/post/MSN-do-Silvio-Santos.aspx" isSpam="False">3</url>
+  <url address="http://www.pysi.com.br/site/portfolio.aspx" isSpam="False">1</url>
+  <url address="http://www.pysi.com.br/blog/post/Finalmente2c-uma-forma-de-esconder-sua-paixao-pelo-Gmail.aspx" isSpam="False">2</url>
+</urls>
